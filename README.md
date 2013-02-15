@@ -4,6 +4,9 @@ alternative name: Twitter2Docx
 
 This Tool parses an exported Twitter Archive and generates a Word 2007/2010 docx file with all Tweets and Timestamps in chronological order.
 
+Download executable jar
+=======================
+https://dl.dropbox.com/u/1871798/twitter2word.jar
 
 Requirements:
 =============
