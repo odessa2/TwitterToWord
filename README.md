@@ -32,7 +32,7 @@ java -jar twitter2word.jar PATH_TO_SOURCE_DIR PATH_TO_DESINATION_DOCX_FILE
 Known Bug:
 ===========
 
-Word shows &lt; instead of <
+Word shows & l t ; instead of <
 
 
 If you encounter any bug, please contact me:
