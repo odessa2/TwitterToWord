@@ -35,6 +35,7 @@ Known Bug:
 
 Word shows & l t ; instead of <
 
+Encoding with Umlaute in Word for Mac
 
 If you encounter any bug, please contact me:
 
