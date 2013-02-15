@@ -30,10 +30,7 @@ public class TwitterToWord {
 		
 		long start = System.currentTimeMillis();
 
-		// File f = new
-		// File("/home/daniel/Downloads/odessa2_tweets/data/js/tweets/");
-		// String WordFileNameAndPath =
-		// "/home/daniel/Downloads/odessa2_tweets/Tweets.docx";
+	
 
 		File f = new File(
 				args[0]);
@@ -56,8 +53,7 @@ public class TwitterToWord {
 						+ (System.currentTimeMillis() - start));
 				System.out.println(Tweets.get(0).Date + " "
 						+ Tweets.get(Tweets.size() - 1).Date);
-				// System.out.println(JSFileList.get(0) + " " +
-				// JSFileList.get(JSFileList.size()-1));
+				
 
 				DocxGenerator dg = new DocxGenerator();
 				try {

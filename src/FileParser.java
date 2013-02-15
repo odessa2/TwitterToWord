@@ -35,8 +35,7 @@ public class FileParser {
 		System.out.println(f.getName().replace(".js", ""));
 		JSONString = JSONString.replace("Grailbird.data.tweets_"
 				+ f.getName().replace(".js", "") + " = ", "");
-		// System.out.println(JSONString);
-
+		
 		Object obj;
 
 		obj = parser.parse(JSONString);
