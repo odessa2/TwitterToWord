@@ -17,10 +17,14 @@ Description:
 This Programm reads Tweets from a Twitter Archive Export (which has to be unzipped first) and generates a Word 2007/2010 .docx file with all Tweets and Timestamps in chronological order.
 
 User has to specify source directory (eg. "PATH-TO-UNZIPPED-FILES/data/js/tweets/")
+
 User has to specify destination directory and filename (eg. "PATH-TO-DESTINATIONDIR/tweets.docx")
 
 If you encounter ANY problem or feature-request, please contact me.
 
+Usage:
+=========
+java -jar twitter2word.jar PATH_TO_SOURCE_DIR PATH_TO_DESINATION_DOCX_FILE
 
 Known Bug:
 ===========
