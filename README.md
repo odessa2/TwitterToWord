@@ -8,7 +8,7 @@ Download executable jar
 =======================
 https://dl.dropbox.com/u/1871798/twitter2word.jar
 
-Requirements:
+Requirements (for compiling) :
 =============
 json-simple library (http://code.google.com/p/json-simple/downloads/list)
 
